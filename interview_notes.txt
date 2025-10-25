@@ -1,0 +1,15 @@
+Short Interview Notes — HR Attrition Project
+
+1. Objective: Predict which employees are likely to leave and identify drivers.
+2. Approach: EDA -> Preprocessing -> Logistic Regression + Decision Tree -> Evaluation.
+3. Key features: OverTime, JobSatisfaction, EnvironmentSatisfaction, YearsAtCompany, MonthlyIncome.
+4. Deliverables: CSV dataset, trained models (.joblib), evaluation report, 2-page PDF with visuals.
+5. Recommendations:
+   - Reduce overtime pressure with flexible hours.
+   - Conduct surveys to improve job and environment satisfaction.
+   - Focus on early-career employee retention (<3 years) with mentorship.
+   - Review compensation for low-income segments to reduce attrition risk.
+6. Interview talking points:
+   - Explain preprocessing: scaling numeric, one-hot encoding categorical.
+   - Highlight Decision Tree interpretability and feature importance.
+   - Mention actionable HR recommendations.
